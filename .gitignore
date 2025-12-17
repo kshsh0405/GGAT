@@ -44,7 +44,7 @@ outputs/
 
 # 실험 결과
 results/
-experiments/
+#experiments/
 wandb/
 mlruns/
 
